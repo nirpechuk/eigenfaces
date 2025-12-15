@@ -1,5 +1,4 @@
 # Eigenfaces 🎭
-**By Nir Pechuk and Rohan Naphade --
-21-241 Final Project**
+**By Nir Pechuk and Rohan Naphade**
 
-See more details at eigenfaces.ipynb
+See more details in the writeup, or view the code in the Jupyter Notebook!
